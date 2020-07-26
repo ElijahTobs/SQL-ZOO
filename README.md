@@ -9,11 +9,7 @@
 
 This project was built to test my domain of SQL queries by requesting me to retrieve and organize different pieces of data from a table.
 
-![screenshot](./images/errors.PNG)
-![screenshot](./images/fail_test.PNG)
-
-![screenshot](./images/pass_test.PNG)
-![screenshot](./images/no_errors.PNG)
+![screenshot](for_sql.png)
 
 # Author
 
@@ -35,3 +31,5 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Project inspired by [Microverse](https://www.microverse.org)
+- Project from [SQL ZOO](sqlzoo.net/wiki/SQL_Tutorial)
+- Thanks to [The Odin Project (TOP)](theodinproject.com)
